@@ -11,7 +11,7 @@ export default function About({navigation})   {
       <View  style={{height:630, justifyContent:"center"}}>
       
          <Button
-        title="To Home Page"
+        title="Home"
         onPress={() => navigation.navigate('Home')}
         />
 
